@@ -1,12 +1,12 @@
 Gem::Specification.new do |s|
-  s.name        = 'xml-indent'
-  s.version     = '0.0.2'
+  s.name        = 'xml_indent'
+  s.version     = '0.0.3'
   s.date        = '2018-02-05'
   s.summary     = 'pretty print xml via stdio'
   s.authors     = ['Baine Wedlock']
   s.email       = 'bainewedlock@gmail.com'
-  s.executables << 'xml-indent.rb'
-  s.files       = ['lib/xml-indent-dummy.rb']
-  s.homepage    = 'https://github.com/bainewedlock/xml-indent'
+  s.executables << 'xml_indent.rb'
+  s.files       = []
+  s.homepage    = 'https://github.com/bainewedlock/xml_indent'
   s.license     = 'MIT'
 end
